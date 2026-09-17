@@ -69,4 +69,4 @@ AFT module `aws-ia/terraform-aws-control_tower_account_factory 1.20.1` was the o
 
 ## Tracker
 
-Beads (`bd`), not cairn — `.beads/` exists, no `cairn.json`. Rules and session-close protocol live in `AGENTS.md`; `bd prime` runs on SessionStart/PreCompact via `.claude/settings.json`.
+No tracker is wired into this repo — beads was retired and removed 2026-09-17 (no `cairn.json` either). Track follow-ups as GitHub Issues on the repo. Shell-hygiene rules and the session-close protocol live in `AGENTS.md`.

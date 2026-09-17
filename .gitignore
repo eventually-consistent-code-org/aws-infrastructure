@@ -43,11 +43,6 @@ terraform.rc
 # Uncomment the line below if you want to ignore planout files.
 # planout
 
-# Beads / Dolt files (added by bd init)
-.dolt/
-*.db
-.beads-credential-key
-
 # Terragrunt-generated files
 **/.terragrunt-cache/
 **/backend.tf
